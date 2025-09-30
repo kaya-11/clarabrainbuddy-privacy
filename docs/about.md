@@ -1,8 +1,8 @@
-# About Clara Brain Buddy
+# About Clara BrainBuddy
 
 ## Clara - the buddy for your brain chaos
 
-Clara Brain Buddy helps to organize daily brain chaos.
+Clara BrainBuddy helps to organize daily brain chaos.
 
 ✅ Todos Plan your daily todos with simple swipe gestures.
 
