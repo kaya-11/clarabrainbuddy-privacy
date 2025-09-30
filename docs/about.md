@@ -16,7 +16,7 @@ Clara BrainBuddy helps to organize your daily brain chaos.
 
 🔗 **Sharing** Share todos with others.
 
-💡 Developed for Neurodivergent People Clara Brain Buddy is designed to help neurodivergent individuals manage their daily todos more effectively.
+💡 **Developed for Neurodivergent People** Clara Brain Buddy is designed to help neurodivergent individuals manage their daily todos more effectively.
 
 _Developed by Karen Bens © 2025 All rights reserved_
 
